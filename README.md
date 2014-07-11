@@ -6,7 +6,7 @@ Gemeenten 2014 shapefile met herindelingen toegepast. De enige opendata hiervoor
 ## Aanwezige velden
 
 | Kolom | Beschrijving | 
-| ---------- |:-------------:| -----:|
+| ---------- |:-------------:| :----- |
 | CBSCODE | CSB code van de gemeente |
 | GEO_ENCODE | De encoded versie van de polygon |
 | INWONERAAN | Aantal inwoners van de gemeente volgens CBS | 
@@ -14,3 +14,5 @@ Gemeenten 2014 shapefile met herindelingen toegepast. De enige opendata hiervoor
 | TITEL | Gemeente naam | 
 | TITEL_KEY | Url-safe titel | 
 | WEBSITE | Website (niet altijd gevuld) | 
+
+Gemaakt voor [SWIS BV](http://www.swis.nl/geo). 
